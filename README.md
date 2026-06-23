@@ -25,4 +25,4 @@ Due to the size of the terrestrial laser scanning datasets (several hundred giga
 ## Repository Contents
 - Thesis 
 - Additional Outputs
-- Data
+- Images
