@@ -23,6 +23,6 @@ Due to the size of the terrestrial laser scanning datasets (several hundred giga
 - RiSCAN Pro
 - ArcGIS Pro
 ## Repository Contents
-- Thesis manuscript (PDF)
-- Supplementary figures and outputs
-- Selected visualisations and maps
+- Thesis 
+- Additional Outputs
+- Data
